@@ -5,7 +5,7 @@ This repository serves as a personal archive for my journey through Data Structu
 Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
 
 ### 🎓 About Me
-- **College:** B.K. Birla Institute of Engineering & Technology (BKBIET), Pilani
+- **College:** B.K. Birla Institute of Engineering & Technology, Pilani
 - **Degree:** B.Tech in Computer Science (Batch 2024 - 2028)
 
 ### 📅 The Journey
