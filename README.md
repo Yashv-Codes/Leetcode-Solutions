@@ -1,5 +1,5 @@
 # 🧠 The-Logic-Lexicon 
-> **"Weaving complex logic into efficient Java solutions."**
+> ** “A personal collection of Data Structures and Algorithms solutions in Java.”.**
 
 This repository serves as a personal archive for my journey through Data Structures and Algorithms. 
 Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
@@ -9,13 +9,13 @@ Everything here is automatically synced from LeetCode using **LeetHub 3.0**.
 - **Degree:** B.Tech in Computer Science (Batch 2024 - 2028)
 
 ### 📅 The Journey
-- **Start Date:** February 2026 (Linked LeetHub 3.0)
-- **Major Milestone:** Starting **Sigma 11.0** on Feb 7, 2026! 🚀
+- **Major Milestone:** Data Structures & Algorithms using Java 🚀
+- **Approach:** Consistent problem-solving with emphasis on logic, optimization, and code readability
 
-### 🚀 Goals
-- [ ] Solve 500+ problems before 2028 graduation.
-- [ ] Complete **Sigma 11.0** by Apna College.
-- [ ] Master specialized topics like Dynamic Programming and Graph Theory.
+### 🎯 Goals
+- Solve 400+ Data Structures and Algorithms problems with clean, optimized solutions.
+- Build strong proficiency in core topics including Arrays, Recursion, Dynamic Programming, Trees, and Graphs.
+- Apply DSA concepts to practical coding problems and future projects.
 
 ### 🛠️ Tech Stack
 - **Language:** Java
